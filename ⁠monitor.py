@@ -1,5 +1,4 @@
 import time
-import os
 import psutil
 
 def monitor_system(interval=5):
